@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d3dbb64-04a7-4063-a941-87274e4d0667" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/jvm.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/maven.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Chair1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Chair2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Chair3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Expell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Faculty1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Faculty2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Faculty3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="1d3dbb64-04a7-4063-a941-87274e4d0667" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +22,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "untilwearehuman"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/untilwearehuman/jd_maxmentor.git",
+    "accountId": "ac194c89-0bd8-49b1-b560-3dd12a32aab4"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2r41nVhUcwMqFG0SnIt7KcZE2it" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,12 +48,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Run.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/IT/it_academy/jd_maxmentor/src/main/java/org/faculty",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IT/it_academy/jd1_vitali",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -115,6 +120,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
@@ -129,7 +142,17 @@
       <workItem from="1735803703388" duration="25367000" />
       <workItem from="1736365065346" duration="69000" />
       <workItem from="1736365165592" duration="1862000" />
+      <workItem from="1736367170413" duration="1664000" />
+      <workItem from="1736452012975" duration="2420000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1736367233618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736367233618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,5 +180,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
