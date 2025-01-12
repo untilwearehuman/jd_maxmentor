@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d3dbb64-04a7-4063-a941-87274e4d0667" name="Changes" comment="First Commit">
+    <list default="true" id="1d3dbb64-04a7-4063-a941-87274e4d0667" name="Changes" comment="Second Commit to Check the work of git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/faculty/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/faculty/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/faculty/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/faculty/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
     "assignee": "untilwearehuman"
   }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ac194c89-0bd8-49b1-b560-3dd12a32aab4" />
+  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/untilwearehuman/jd_maxmentor.git",
@@ -63,7 +69,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -143,7 +149,7 @@
       <workItem from="1736365065346" duration="69000" />
       <workItem from="1736365165592" duration="1862000" />
       <workItem from="1736367170413" duration="1664000" />
-      <workItem from="1736452012975" duration="2420000" />
+      <workItem from="1736452012975" duration="24660000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1736367233618</created>
@@ -152,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736367233618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit to Check the work of git">
+      <option name="closed" value="true" />
+      <created>1736454769425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736454769425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Second Commit to Check the work of git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit to Check the work of git" />
   </component>
 </project>
